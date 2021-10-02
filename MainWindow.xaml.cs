@@ -24,5 +24,10 @@ namespace EnvDTERuinsMyVS2022Life
         {
             InitializeComponent();
         }
+
+        private void ClickMe_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
